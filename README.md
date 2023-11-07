@@ -1,0 +1,1 @@
+Follow the link https://GITHUB-darimatveeva.github.io/rsschool-cv/cv to find my CV

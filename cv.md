@@ -1,9 +1,9 @@
-#Darya Matsveyeva
+# Darya Matsveyeva
 ![profile photo](https://avatars.githubusercontent.com/u/146457459?s=192&v=4)
 
 ***
 
-##Contacts
+## Contacts
 * __Location:__ Mozyr, Belarus
 * __Phone number:__ +375 29 534 30 33
 * __Email:__ d.matveeva1112@gmail.com
@@ -11,17 +11,17 @@
 * __LinkedIn:__ Darya Matveeva
 
 ***
-##About me
+## About me
 Strong communication skills. Highly organized and able to work effectively both individually and as a part of a team. 
 I'm very keen on studying something new all the time.
 
 ***
 
-##Education
+## Education
 __Bachelor of Schience:__ Logistics
 __Belarusian State Economic University__
 
-###Other Skills
+### Other Skills
 
 * HTML
 * CSS 
@@ -30,7 +30,7 @@ __Belarusian State Economic University__
 
 ___
 
-##Code Exhample
+## Code Exhample
 
 ```
 // Найти сумму чисел от 0 до 100.

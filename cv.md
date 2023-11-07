@@ -19,8 +19,10 @@ I'm very keen on studying something new all the time.
 ***
 
 ## Education
-__Bachelor of Schience:__ Logistics
+
 __Belarusian State Economic University__
+__Bachelor of Schience:__ Logistics
+
 
 ### Other Skills
 
